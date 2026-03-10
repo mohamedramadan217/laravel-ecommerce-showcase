@@ -33,10 +33,10 @@ This project demonstrates building a full backend system with product management
 ![Home](https://github.com/mohamedramadan217/laravel-ecommerce/blob/main/screenshots/home.png)
 
 ### Products Page
-![Products](screenshots/products.png)
+![Products](https://github.com/mohamedramadan217/laravel-ecommerce/blob/main/screenshots/products.png)
 
 ### Admin Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](https://github.com/mohamedramadan217/laravel-ecommerce/blob/main/screenshots/dashboard.png)
 
 ---
 
